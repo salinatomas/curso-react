@@ -440,6 +440,22 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Sofia",
+      "lastName": "Salina",
+      "email": "sofiasalina@gmail.com",
+      "jobTitle": "Designer",
+      "twitter": "sofiasalina",
+      "id": "j8rI6c5"
+    },
+    {
+      "firstName": "Tomas",
+      "lastName": "Salina",
+      "email": "salinatomass53@gmail.com",
+      "jobTitle": "Frontend Developer",
+      "twitter": "salinatomass",
+      "id": "4syPCjO"
     }
   ]
 }
